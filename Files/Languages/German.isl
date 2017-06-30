@@ -49,8 +49,8 @@ ErrorTitle=Fehler
 
 ; *** SetupLdr messages
 SetupLdrStartupMessage=%1 wird jetzt installiert. Möchten Sie fortfahren?
-LdrCannotCreateTemp=Es konnte keine temporäre Datei erstellt werden. Das Setup wurde abgebrochen
-LdrCannotExecTemp=Die Datei konnte nicht im temporären Ordner ausgeführt werden. Das Setup wurde abgebrochen
+LdrCannotCreateTemp=Es konnte keine temporäre Datei erstellt werden. Das Setup wurde abgebrochen.
+LdrCannotExecTemp=Die Datei konnte nicht im temporären Ordner ausgeführt werden. Das Setup wurde abgebrochen.
 
 ; *** Startup error messages
 LastErrorMessage=%1.%n%nFehler %2: %3
@@ -73,8 +73,8 @@ SetupAppRunningError=Das Setup hat entdeckt, dass %1 zur Zeit ausgeführt wird.%n
 UninstallAppRunningError=Die Deinstallation hat entdeckt, dass %1 zur Zeit ausgeführt wird.%n%nBitte schließen Sie jetzt alle laufenden Instanzen, und klicken Sie auf "OK", um fortzufahren, oder auf "Abbrechen", um zu beenden.
 
 ; *** Misc. errors
-ErrorCreatingDir=Das Setup konnte den Ordner "%1" nicht erstellen
-ErrorTooManyFilesInDir=Das Setup konnte eine Datei im Ordner "%1" nicht erstellen, weil er zu viele Dateien enthält
+ErrorCreatingDir=Das Setup konnte den Ordner "%1" nicht erstellen.
+ErrorTooManyFilesInDir=Das Setup konnte eine Datei im Ordner "%1" nicht erstellen, weil er zu viele Dateien enthält.
 
 ; *** Setup common messages
 ExitSetupTitle=Setup verlassen
